@@ -1,4 +1,4 @@
-### Hi there 👋
+👋
 
 
 <img src="https://media.giphy.com/media/fVZIYzPJa5hf2/giphy.gif" align="right" width="400" height="250">
@@ -75,4 +75,4 @@
 [twitter]:https://twitter.com/ParcalaAslanim?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 
 [linkedin]:https://tr.linkedin.com/in/halis-akbal-076601181
--->
+
