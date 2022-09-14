@@ -1,15 +1,5 @@
 ### Hi there 👋
 
-<!--
-**atilla2071/atilla2071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on C
-- 🤔 I’m looking for help with Html
-
 
 <img src="https://media.giphy.com/media/fVZIYzPJa5hf2/giphy.gif" align="right" width="400" height="250">
 
