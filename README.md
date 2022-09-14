@@ -74,5 +74,5 @@
 
 [twitter]:https://twitter.com/ParcalaAslanim?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 
-[linkedin]:https://tr.linkedin.com/in/halis-akbal-076601181
+[linkedin]:https://www.linkedin.com/in/o%C4%9Fuz-baga-tarkan-atilla-a44465250/
 
