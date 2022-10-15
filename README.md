@@ -14,17 +14,6 @@
 
 <font color="green"> baga tarkan</font>
 
-### Reach out to me
-
-[<img height="32" width="22" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align="left" />
-][youtube]
-
-[<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />
-][twitter]
-
-
-[<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />
-][linkedin]
 
 
 <br/>
